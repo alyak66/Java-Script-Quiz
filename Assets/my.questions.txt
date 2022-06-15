@@ -1,0 +1,59 @@
+1. Which of the following keywords is used to define a variable in Javascript?
+    A. var
+    B. let
+    C. Both A and B
+    D. Neither
+
+2. What operator is used to compare a value or variable?
+    A. = (*)
+    B. ===
+    C. #
+    D. <<
+
+3. What is the correct way to us an array in JavaScript?
+    A. var colors = "yellow", "black", "red"
+    B. var colors = ["orange", "purple", "green"] (*)
+    C. var colors = (1:"red", 2:"yellow", 3:"black")
+    D. var colors = 1 = ("purple"), 2 = ("green"), 3 = ("orange")
+
+4. What operator is used to assign a value to a vairable?
+    A. = (*)
+    B. ===
+    C. #
+    D. <<
+
+5. How do you call a function named "myFunction"?
+    A. call function myFunction()
+    B. myFunction() (*)
+    C. call myFunction()
+    D. call.myFunction()
+
+6. What operator is the OR operator?
+    A. +
+    B. &
+    C. &&
+    D. || (*)
+
+7. How do we write a comment in javascript?
+    A. 'Comment in js
+    B. <!-- Comment in js -->
+    C. rem Comment in js
+    D. //Comment in js (*)
+
+8. Which of the following methods can be used to display data in some form using Javascript?
+    A. document.write()
+    B. console.log()
+    C. window.alert()
+    D. All the above
+
+9. What operator is the AND operator?
+    A. = (*)
+    B. ===
+    C. #
+    D. <<
+
+10. Which of the following are not server-side Javascript objects?
+    A. Date
+    B. FileUpload
+    C. Function
+    D. All of the above
