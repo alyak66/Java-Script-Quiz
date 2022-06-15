@@ -42,6 +42,6 @@ The following animation demonstrates the application functionality:
 
 You are required to submit BOTH of the following for review:
 
-* The URL of the functional, deployed application.
+* The URL of the functional: https://alyak66.github.io/Java-Script-Quiz/
 
 * The URL of the GitHub repository: https://github.com/alyak66/Java-Script-Quiz/
